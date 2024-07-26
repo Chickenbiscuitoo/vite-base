@@ -1,0 +1,1 @@
+function u(n,o){return n+o}function l(n,o){return n-o}function c(n,o){return n*o}function e(n,o){return n/o}console.log("1 + 2 = ",u(1,2));console.log("10 - 6 = ",l(10,5));console.log("5 * 5 = ",c(5,5));console.log("10 / 2 = ",e(10,2));
